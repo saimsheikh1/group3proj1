@@ -13,7 +13,7 @@
 
 
 ### 2022-04-16 at 10:00am
-Members present: Yashik, Allen, Simone
+Members present: Yashik, Allen, Simone, Saim
 - Allen
    - Completed use cases 4-6
    - Updated README.md
@@ -32,7 +32,12 @@ Members present: Yashik, Allen, Simone
   - Finished my use cases on requirement file (Use Cases: 1 - 3)
   - Met with group to assign requirements (Mine: functional requirements 1 - 4)
   - Will meet for next milestone
-
+- Saim
+   - Completed use cases for non-functional requirements (1-2)
+   - Updated README.md
+   - Updated meetings.md
+   - Will finish next 2 non-functional requirements before next milestone
+   - Will wait for next milestone
 ### 2022-04-16 at 10:00am
 - Who attended the meeting:
 - Team updates (15min or less)
